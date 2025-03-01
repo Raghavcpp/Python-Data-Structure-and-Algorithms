@@ -43,7 +43,7 @@ Python Data Structures & Algorithms
 Clone the repository and start coding right away!
 
 ```sh
-git clone https://github.com/Raghavcpp/Python-DSA.git
+git clone [https://github.com/Raghavcpp/Python-Data-Structure-and-Algorithms.git]
 cd Python-DSA
 python 03\ Linked\ List/001\ LL-Constructor.py
 ```
@@ -73,7 +73,7 @@ git push origin feature-branch
 ## 📌 Author
 
 👨‍💻 **Raghav Verma**  
-🔗 [GitHub](https://github.com/Raghavcpp) • [LinkedIn](#) • [Portfolio](#)  
+🔗 [GitHub](https://github.com/Raghavcpp/) • [LinkedIn](httpd://linkedin.com/in/raghav-cpp/) • [Portfolio](https://raghavcpp.onrender.com/)  
 
 ---
 
