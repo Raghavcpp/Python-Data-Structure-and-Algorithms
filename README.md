@@ -73,7 +73,7 @@ git push origin feature-branch
 ## 📌 Author
 
 👨‍💻 **Raghav Verma**  
-🔗 [GitHub](https://github.com/Raghavcpp/) • [LinkedIn](httpd://linkedin.com/in/raghav-cpp/) • [Portfolio](https://raghavcpp.onrender.com/)  
+🔗 [GitHub](https://github.com/Raghavcpp/) • [LinkedIn](https://linkedin.com/in/raghav-cpp/) • [Portfolio](https://raghavcpp.onrender.com/)  
 
 ---
 
